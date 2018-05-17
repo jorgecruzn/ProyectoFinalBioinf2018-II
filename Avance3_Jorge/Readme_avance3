@@ -1,0 +1,28 @@
+### Readme
+
+This folder **Proy_Bioinfo_Jorge** contains 3 subfolders:
+
+Subfolder *data* with output files from ipyrad:
+* Raw_s1 contains, Barcodes, fastqs samples and fastqc.html
+* iptest_edits_s2 contains, output files of s2 in ipyrad.
+* iptest_clust_0.85_s3_s4 contains, output files of s34 in ipyrad.
+* iptest_consens_s5 contains, output files of s5 in ipyrad.
+* iptest_across_s6 contains, output files of s6 in ipyrad.
+* iptest_outfiles_s7 contains, output files of s7 in ipyrad.
+
+Subfolder *bin* with files params of ipyrad, and scripts.
+
+Subfolder *Imagenes* with images used in this study.
+
+
+
+
+
+
+
+
+
+
+
+
+
